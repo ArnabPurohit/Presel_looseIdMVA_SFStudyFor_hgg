@@ -1,6 +1,6 @@
 # Presel_looseIdMVA_SFStudyFor_hgg
 
-How to:
+##How to:
 
 This package takes data MC flat trees as input.
 
@@ -12,7 +12,7 @@ This package takes data MC flat trees as input.
 
 
 
-## The different fitting steps
+### The different fitting steps
 Everything will be done for a specific flag (so the settings can be the same for different flags). Hence, the flag to be used must be specified each time (named myWP in following).
 
 **1. Create the bining.** To each bin is associated a cut that can be tuned bin by bin in the settings.py
