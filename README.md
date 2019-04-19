@@ -3,9 +3,11 @@
 How to:
 
 This package takes data MC flat trees as input.
-*Always start with "source etc/scritps/setup.sh" to setup the environment.
-**Step 1.** Change the name of files in etc/inputs/tnpSampleDef.py
-**Step 2.** Applying additional cuts on Tag and probe, mentioning flag for which efficiency is to be measured and tune intial values of fit parameters all of this can be done with etc/config/settings.py
+     * Always start with "source etc/scritps/setup.sh" to setup the environment.
+**Step 1.** Change the name of files in etc/inputs/tnpSampleDef.py.
+
+**Step 2.** Applying additional cuts on Tag and probe, mentioning flag for which efficiency is to be measured and tune intial values of fit parameters all of this can be done with etc/config/settings.py.
+
 
 
 ## The different fitting steps
